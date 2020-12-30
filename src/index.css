@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.form-check
+{
+  display: inline;
+}
+p
+{
+  font-size:36px;
+}
